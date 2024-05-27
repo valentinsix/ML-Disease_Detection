@@ -3,7 +3,7 @@
 ## Accuracy of Various Models for Heart Disease Detection:
 The aim of this project is to predict whether a patient has a high risk of having a heart disease or not. This problem is a classification problem as the outputs for "Heart Attack Risk" as either:
 
-0 = the patient is not at risk
+0 = the patient is not at risk  
 1 = the patient is at risk   
 
 
